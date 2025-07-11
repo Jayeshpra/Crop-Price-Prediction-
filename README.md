@@ -45,11 +45,15 @@ weather_data.csv: Contains weather parameters like temperature, dew, humidity, p
 # Installation
 To run this code, you need to have the following Python libraries installed:
 
-pandas 
-numpy 
-scikit-learn 
-seaborn 
-plotly.express 
+1.pandas 
+
+2.numpy 
+
+3.scikit-learn
+
+4.seaborn 
+
+5.plotly.express 
 
 You can install them using pip:
 

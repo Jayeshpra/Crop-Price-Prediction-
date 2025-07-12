@@ -56,5 +56,6 @@ To run this code, you need to have the following Python libraries installed:
 5.plotly.express 
 
 You can install them using pip:
-
+```python
 pip install pandas numpy scikit-learn seaborn plotly-express
+```
